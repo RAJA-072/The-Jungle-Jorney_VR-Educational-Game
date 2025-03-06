@@ -4,7 +4,7 @@
 
 
 ## Overview
-This VR project focuses on gamified education in the field of biology, specifically exploring the concept of food chains. The project consists of three interactive modules designed to engage players while teaching them about ecosystems and food relationships.
+This VR project focuses on gamified education in the field of biology, specifically exploring the concept of food chains. The project consists of three interactive modules designed to engage players while teaching them about ecosystems and food relationships
 
 ## Modules
 
